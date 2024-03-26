@@ -1,6 +1,6 @@
 🌐StudySpacee 
 
-🔸The website "https://studyspacee.netlify.app/" is a comprehensive study portal designed specifically for college 
+🔸The website "studyspacee.netlify.app" is a comprehensive study portal designed specifically for college 
    students. Developed utilizing HTML, CSS, JavaScript, and Bootstrap 5 frameworks, it offers a user-friendly interface for 
    accessing a diverse range of educational resources.  
 
